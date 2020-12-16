@@ -15,9 +15,6 @@ public class DefaultCountingOutRhymer {
         return numbers;
     }
 
-    public void setNumbers(int[] numbers) {
-        this.numbers = numbers;
-    }
 
     public boolean callCheck() {
         return total == -1;
